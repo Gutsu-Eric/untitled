@@ -11,3 +11,7 @@ const boxes = document.querySelectorAll('.box');
 for (let item of boxes) {
     item.style.background = 'green';
 }
+
+if (boxes) {
+    alert('Hello');
+}
