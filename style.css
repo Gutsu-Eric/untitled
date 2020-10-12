@@ -11,6 +11,10 @@
     background: #00bfff;
 }
 
+#red {
+    background: red;
+}
+
 .block {
     background: orange;
     width: 80px;
